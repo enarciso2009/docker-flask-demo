@@ -39,6 +39,12 @@ docker-flask-demo/
 
 
 
+
+
+
+
+
+
 ## 🚀 Como Rodar o Projeto
 
 ### 1️⃣ Clonar o repositório
@@ -58,52 +64,25 @@ http://localhost:5000
 Você deverá ver a aplicação Flask rodando dentro do container Docker 🎉
 
 🎯 Objetivo do Projeto
-
 Este projeto foi criado com foco em aprendizado e portfólio, demonstrando:
-
-Criação de imagens Docker com Dockerfile
-
-Execução de aplicações Flask em containers
-
-Organização profissional de projetos Python
-
-Estruturação correta de templates no Flask
-
-Versionamento de código com Git e GitHub
+  Criação de imagens Docker com Dockerfile
+  Execução de aplicações Flask em containers
+  Organização profissional de projetos Python
+  Estruturação correta de templates no Flask
+  Versionamento de código com Git e GitHub
 
 📚 Possíveis Evoluções
-
 Algumas melhorias que podem ser implementadas futuramente:
-
-Uso de docker-compose
-
-Separação de ambientes (dev/prod)
-
-Variáveis de ambiente com .env
-
-Testes automatizados
-
-CI/CD com GitHub Actions
-
-Versão Django do projeto
+  Uso de docker-compose
+  Separação de ambientes (dev/prod)
+  Variáveis de ambiente com .env
+  Testes automatizados
+  CI/CD com GitHub Actions
+  Versão Django do projeto
 
 👤 Autor
-
 Everton Narciso
 Desenvolvedor Python
-
-GitHub: https://github.com/enarciso2009
-
-
----
-
-## ✅ Próximo passo (importante)
-
-Depois de colar no GitHub:
-
-```bash
-git add README.md
-git commit -m "Atualiza README com documentação profissional"
-git push
+  GitHub: https://github.com/enarciso2009
 
 
