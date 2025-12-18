@@ -25,6 +25,7 @@ O foco é aprendizado prático e apresentação de boas práticas para projetos 
 
 <img width="158" height="284" alt="image" src="https://github.com/user-attachments/assets/af2e7971-191b-4bc6-bd21-5f12fa89b27e" />
 
+---
 
 ## 🚀 Como Rodar o Projeto
 
@@ -44,6 +45,8 @@ http://localhost:5000
 
 Você deverá ver a aplicação Flask rodando dentro do container Docker 🎉
 
+---
+
 🎯 Objetivo do Projeto
 Este projeto foi criado com foco em aprendizado e portfólio, demonstrando:
 
@@ -56,6 +59,8 @@ Este projeto foi criado com foco em aprendizado e portfólio, demonstrando:
  * Estruturação correta de templates no Flask
   
  * Versionamento de código com Git e GitHub
+
+---
 
 📚 Possíveis Evoluções
 
@@ -72,6 +77,8 @@ Algumas melhorias que podem ser implementadas futuramente:
   * CI/CD com GitHub Actions
   
   * Versão Django do projeto
+
+---
 
 👤 Autor
   
